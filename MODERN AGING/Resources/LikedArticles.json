@@ -1,0 +1,81 @@
+{
+    "status": "success",
+    "statusCode": 1,
+    "articlesData":[
+        {
+            "articleId" : "abc",
+            "articleTitle": "Article about Modern Aging activities",
+            "articleLink": "Article about Modern Aging activities",
+            "articleBanner":"Article about Modern Aging activities",
+            "isLiked": true,
+            "categories":[
+                {
+                    "categotriesId":1,
+                    "categotriesTitle":"Cognitive"
+                },
+                {
+                    "categotriesId":2,
+                    "categotriesTitle":"Emotional"
+                },
+                {
+                    "categotriesId":3,
+                    "categotriesTitle":"General"
+                },
+                {
+                    "categotriesId":4,
+                    "categotriesTitle":"Physical"
+                }
+            ]
+        },
+        {
+            "articleId" : "def",
+            "articleTitle": "Article about aging and staying active",
+            "articleLink": "Article about aging and staying active",
+            "articleBanner":"Article about aging and staying active",
+            "isLiked": true,
+            "categories":[
+                {
+                    "categotriesId":1,
+                    "categotriesTitle":"Cognitive"
+                },
+                {
+                    "categotriesId":2,
+                    "categotriesTitle":"Emotional"
+                },
+                {
+                    "categotriesId":3,
+                    "categotriesTitle":"General"
+                },
+                {
+                    "categotriesId":4,
+                    "categotriesTitle":"Physical"
+                }
+            ]
+        },
+        {
+            "articleId" : "ghi",
+            "articleTitle": "Article about healthy living",
+            "articleLink": "Article about healthy living",
+            "articleBanner":"Article about healthy living",
+            "isLiked": true,
+            "categories":[
+                {
+                    "categotriesId":1,
+                    "categotriesTitle":"Cognitive"
+                },
+                {
+                    "categotriesId":2,
+                    "categotriesTitle":"Emotional"
+                },
+                {
+                    "categotriesId":3,
+                    "categotriesTitle":"General"
+                },
+                {
+                    "categotriesId":4,
+                    "categotriesTitle":"Physical"
+                }
+            ]
+        }
+    ]
+}
